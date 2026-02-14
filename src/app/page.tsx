@@ -9,7 +9,7 @@ import ErrorBoundary from "@/components/ErrorBoundary";
 import { useSuggestions } from "@/hooks/useSuggestions";
 import { useFavorites } from "@/hooks/useFavorites";
 
-const EXAMPLE_CHIPS = ["notify", "cloud", "stream", "pixel", "bright"];
+const EXAMPLE_CHIPS = ["genius", "stream", "cloud", "focus", "famous"];
 
 export default function Home() {
   const [query, setQuery] = useState("");
