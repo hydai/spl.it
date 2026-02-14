@@ -6,12 +6,22 @@ import { useQueryParam } from "@/hooks/useQueryParam";
 
 interface SearchInputProps {
   onSearch: (query: string) => void;
+  externalValue?: string;
 }
 
-export default function SearchInput({ onSearch }: SearchInputProps) {
+export default function SearchInput({ onSearch, externalValue }: SearchInputProps) {
   const [paramValue, setParamValue] = useQueryParam("q");
-  const [input, setInput] = useState(paramValue);
+  const [input, setInput] = useState(paramValue || "");
   const debouncedInput = useDebounce(input, 300);
+
+  // Sync external value (e.g., from example chips) into the input
+  useEffect(() => {
+    if (externalValue !== undefined && externalValue !== input) {
+      setInput(externalValue);
+    }
+    // Only react to externalValue changes, not input
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [externalValue]);
 
   // Sync debounced value to URL and parent callback
   useEffect(() => {
@@ -46,6 +56,7 @@ export default function SearchInput({ onSearch }: SearchInputProps) {
         value={input}
         onChange={(e) => setInput(e.target.value)}
         placeholder="Enter a word or brand name..."
+        maxLength={100}
         className="h-12 w-full rounded-xl border border-border bg-card pl-11 pr-10 text-base text-foreground placeholder:text-muted focus:border-accent focus:outline-none focus:ring-2 focus:ring-accent/30 transition-shadow"
         autoFocus
       />
