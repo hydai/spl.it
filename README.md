@@ -1,36 +1,79 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# spl.it
 
-## Getting Started
+Split words into clever domain names. A client-side tool that generates creative domain name suggestions using TLD hacks, prefixes, suffixes, abbreviations, alternative spellings, and word play.
 
-First, run the development server:
+**Try it:** type "genius" and get `geni.us`, or "delicious" and get `delicio.us`.
+
+## Features
+
+- **Domain Hacks** — Split words so the suffix matches a real TLD: `stre.am`, `foc.us`, `par.is`
+- **Multi-level Hacks** — Recursive splitting: `del.icio.us`
+- **Prefix/Suffix Additions** — Combine with common prefixes (get, try, my) and suffixes (app, hub, lab)
+- **Abbreviations** — Drop vowels, truncate, extract initials
+- **Alt Spellings** — ph/f swaps, y/i swaps, ck/k simplification
+- **Word Play** — Compound words, alliteration, rhyming combinations
+- **1285 real TLDs** from the IANA Root Zone Database
+- **Filtering** — By TLD type (ccTLD/gTLD/sTLD), strategy, and text search
+- **Sorting** — By score, alphabetical, or length
+- **Favorites** — Star and save domains to localStorage
+- **Dark mode** — Automatic via system preference
+- **URL sharing** — `?q=genius` syncs with the search input
+- **Fully static** — No server required, deploys anywhere
+
+## Quick Start
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Build
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run build
+```
 
-## Learn More
+Produces a static export in `out/` — deploy to any static host (GitHub Pages, Netlify, Vercel, S3).
 
-To learn more about Next.js, take a look at the following resources:
+## Update TLD Data
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+npx tsx scripts/fetch-tlds.ts
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Fetches the latest TLD list from IANA and writes `src/data/tlds.json`.
 
-## Deploy on Vercel
+## Tech Stack
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+| Layer | Choice |
+|-------|--------|
+| Framework | Next.js 16 (App Router, static export) |
+| Language | TypeScript |
+| UI | React 19 |
+| Styling | Tailwind CSS v4 |
+| State | React hooks (useState, useMemo) |
+| Storage | localStorage |
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Project Structure
+
+```
+src/
+  app/              Next.js pages and layout
+  components/       React components (SearchInput, ResultCard, FilterToolbar, etc.)
+  hooks/            Custom hooks (useDebounce, useSuggestions, useFavorites, etc.)
+  lib/
+    strategies/     6 suggestion strategies (domainHack, prefix, suffix, etc.)
+    scoring.ts      Scoring utilities
+    tld.ts          TLD data loader
+    types.ts        Shared TypeScript types
+  data/             Static JSON data (TLDs, prefixes, suffixes, combining words)
+scripts/
+  fetch-tlds.ts     IANA TLD fetcher
+  validate.ts       Domain hack validation
+```
+
+## License
+
+[MIT](LICENSE)
