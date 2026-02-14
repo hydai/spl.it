@@ -1,0 +1,5142 @@
+[
+  {
+    "tld": "aaa",
+    "type": "gTLD"
+  },
+  {
+    "tld": "aarp",
+    "type": "gTLD"
+  },
+  {
+    "tld": "abb",
+    "type": "gTLD"
+  },
+  {
+    "tld": "abbott",
+    "type": "gTLD"
+  },
+  {
+    "tld": "abbvie",
+    "type": "gTLD"
+  },
+  {
+    "tld": "abc",
+    "type": "gTLD"
+  },
+  {
+    "tld": "able",
+    "type": "gTLD"
+  },
+  {
+    "tld": "abogado",
+    "type": "gTLD"
+  },
+  {
+    "tld": "abudhabi",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ac",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "academy",
+    "type": "gTLD"
+  },
+  {
+    "tld": "accenture",
+    "type": "gTLD"
+  },
+  {
+    "tld": "accountant",
+    "type": "gTLD"
+  },
+  {
+    "tld": "accountants",
+    "type": "gTLD"
+  },
+  {
+    "tld": "aco",
+    "type": "gTLD"
+  },
+  {
+    "tld": "actor",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ad",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "ads",
+    "type": "gTLD"
+  },
+  {
+    "tld": "adult",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ae",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "aeg",
+    "type": "gTLD"
+  },
+  {
+    "tld": "aero",
+    "type": "sTLD"
+  },
+  {
+    "tld": "aetna",
+    "type": "gTLD"
+  },
+  {
+    "tld": "af",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "afl",
+    "type": "gTLD"
+  },
+  {
+    "tld": "africa",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ag",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "agakhan",
+    "type": "gTLD"
+  },
+  {
+    "tld": "agency",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ai",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "aig",
+    "type": "gTLD"
+  },
+  {
+    "tld": "airbus",
+    "type": "gTLD"
+  },
+  {
+    "tld": "airforce",
+    "type": "gTLD"
+  },
+  {
+    "tld": "airtel",
+    "type": "gTLD"
+  },
+  {
+    "tld": "akdn",
+    "type": "gTLD"
+  },
+  {
+    "tld": "al",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "alibaba",
+    "type": "gTLD"
+  },
+  {
+    "tld": "alipay",
+    "type": "gTLD"
+  },
+  {
+    "tld": "allfinanz",
+    "type": "gTLD"
+  },
+  {
+    "tld": "allstate",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ally",
+    "type": "gTLD"
+  },
+  {
+    "tld": "alsace",
+    "type": "gTLD"
+  },
+  {
+    "tld": "alstom",
+    "type": "gTLD"
+  },
+  {
+    "tld": "am",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "amazon",
+    "type": "gTLD"
+  },
+  {
+    "tld": "americanexpress",
+    "type": "gTLD"
+  },
+  {
+    "tld": "americanfamily",
+    "type": "gTLD"
+  },
+  {
+    "tld": "amex",
+    "type": "gTLD"
+  },
+  {
+    "tld": "amfam",
+    "type": "gTLD"
+  },
+  {
+    "tld": "amica",
+    "type": "gTLD"
+  },
+  {
+    "tld": "amsterdam",
+    "type": "gTLD"
+  },
+  {
+    "tld": "analytics",
+    "type": "gTLD"
+  },
+  {
+    "tld": "android",
+    "type": "gTLD"
+  },
+  {
+    "tld": "anquan",
+    "type": "gTLD"
+  },
+  {
+    "tld": "anz",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ao",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "aol",
+    "type": "gTLD"
+  },
+  {
+    "tld": "apartments",
+    "type": "gTLD"
+  },
+  {
+    "tld": "app",
+    "type": "gTLD"
+  },
+  {
+    "tld": "apple",
+    "type": "gTLD"
+  },
+  {
+    "tld": "aq",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "aquarelle",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ar",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "arab",
+    "type": "gTLD"
+  },
+  {
+    "tld": "aramco",
+    "type": "gTLD"
+  },
+  {
+    "tld": "archi",
+    "type": "gTLD"
+  },
+  {
+    "tld": "army",
+    "type": "gTLD"
+  },
+  {
+    "tld": "arpa",
+    "type": "gTLD"
+  },
+  {
+    "tld": "art",
+    "type": "gTLD"
+  },
+  {
+    "tld": "arte",
+    "type": "gTLD"
+  },
+  {
+    "tld": "as",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "asda",
+    "type": "gTLD"
+  },
+  {
+    "tld": "asia",
+    "type": "sTLD"
+  },
+  {
+    "tld": "associates",
+    "type": "gTLD"
+  },
+  {
+    "tld": "at",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "athleta",
+    "type": "gTLD"
+  },
+  {
+    "tld": "attorney",
+    "type": "gTLD"
+  },
+  {
+    "tld": "au",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "auction",
+    "type": "gTLD"
+  },
+  {
+    "tld": "audi",
+    "type": "gTLD"
+  },
+  {
+    "tld": "audible",
+    "type": "gTLD"
+  },
+  {
+    "tld": "audio",
+    "type": "gTLD"
+  },
+  {
+    "tld": "auspost",
+    "type": "gTLD"
+  },
+  {
+    "tld": "author",
+    "type": "gTLD"
+  },
+  {
+    "tld": "auto",
+    "type": "gTLD"
+  },
+  {
+    "tld": "autos",
+    "type": "gTLD"
+  },
+  {
+    "tld": "aw",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "aws",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ax",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "axa",
+    "type": "gTLD"
+  },
+  {
+    "tld": "az",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "azure",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ba",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "baby",
+    "type": "gTLD"
+  },
+  {
+    "tld": "baidu",
+    "type": "gTLD"
+  },
+  {
+    "tld": "banamex",
+    "type": "gTLD"
+  },
+  {
+    "tld": "band",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bank",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bar",
+    "type": "gTLD"
+  },
+  {
+    "tld": "barcelona",
+    "type": "gTLD"
+  },
+  {
+    "tld": "barclaycard",
+    "type": "gTLD"
+  },
+  {
+    "tld": "barclays",
+    "type": "gTLD"
+  },
+  {
+    "tld": "barefoot",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bargains",
+    "type": "gTLD"
+  },
+  {
+    "tld": "baseball",
+    "type": "gTLD"
+  },
+  {
+    "tld": "basketball",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bauhaus",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bayern",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bb",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "bbc",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bbt",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bbva",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bcg",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bcn",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bd",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "be",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "beats",
+    "type": "gTLD"
+  },
+  {
+    "tld": "beauty",
+    "type": "gTLD"
+  },
+  {
+    "tld": "beer",
+    "type": "gTLD"
+  },
+  {
+    "tld": "berlin",
+    "type": "gTLD"
+  },
+  {
+    "tld": "best",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bestbuy",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bet",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bf",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "bg",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "bh",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "bharti",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bi",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "bible",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bid",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bike",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bing",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bingo",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bio",
+    "type": "gTLD"
+  },
+  {
+    "tld": "biz",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bj",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "black",
+    "type": "gTLD"
+  },
+  {
+    "tld": "blackfriday",
+    "type": "gTLD"
+  },
+  {
+    "tld": "blockbuster",
+    "type": "gTLD"
+  },
+  {
+    "tld": "blog",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bloomberg",
+    "type": "gTLD"
+  },
+  {
+    "tld": "blue",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bm",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "bms",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bmw",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bn",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "bnpparibas",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bo",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "boats",
+    "type": "gTLD"
+  },
+  {
+    "tld": "boehringer",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bofa",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bom",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bond",
+    "type": "gTLD"
+  },
+  {
+    "tld": "boo",
+    "type": "gTLD"
+  },
+  {
+    "tld": "book",
+    "type": "gTLD"
+  },
+  {
+    "tld": "booking",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bosch",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bostik",
+    "type": "gTLD"
+  },
+  {
+    "tld": "boston",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bot",
+    "type": "gTLD"
+  },
+  {
+    "tld": "boutique",
+    "type": "gTLD"
+  },
+  {
+    "tld": "box",
+    "type": "gTLD"
+  },
+  {
+    "tld": "br",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "bradesco",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bridgestone",
+    "type": "gTLD"
+  },
+  {
+    "tld": "broadway",
+    "type": "gTLD"
+  },
+  {
+    "tld": "broker",
+    "type": "gTLD"
+  },
+  {
+    "tld": "brother",
+    "type": "gTLD"
+  },
+  {
+    "tld": "brussels",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bs",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "bt",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "build",
+    "type": "gTLD"
+  },
+  {
+    "tld": "builders",
+    "type": "gTLD"
+  },
+  {
+    "tld": "business",
+    "type": "gTLD"
+  },
+  {
+    "tld": "buy",
+    "type": "gTLD"
+  },
+  {
+    "tld": "buzz",
+    "type": "gTLD"
+  },
+  {
+    "tld": "bv",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "bw",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "by",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "bz",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "bzh",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ca",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "cab",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cafe",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cal",
+    "type": "gTLD"
+  },
+  {
+    "tld": "call",
+    "type": "gTLD"
+  },
+  {
+    "tld": "calvinklein",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cam",
+    "type": "gTLD"
+  },
+  {
+    "tld": "camera",
+    "type": "gTLD"
+  },
+  {
+    "tld": "camp",
+    "type": "gTLD"
+  },
+  {
+    "tld": "canon",
+    "type": "gTLD"
+  },
+  {
+    "tld": "capetown",
+    "type": "gTLD"
+  },
+  {
+    "tld": "capital",
+    "type": "gTLD"
+  },
+  {
+    "tld": "capitalone",
+    "type": "gTLD"
+  },
+  {
+    "tld": "car",
+    "type": "gTLD"
+  },
+  {
+    "tld": "caravan",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cards",
+    "type": "gTLD"
+  },
+  {
+    "tld": "care",
+    "type": "gTLD"
+  },
+  {
+    "tld": "career",
+    "type": "gTLD"
+  },
+  {
+    "tld": "careers",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cars",
+    "type": "gTLD"
+  },
+  {
+    "tld": "casa",
+    "type": "gTLD"
+  },
+  {
+    "tld": "case",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cash",
+    "type": "gTLD"
+  },
+  {
+    "tld": "casino",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cat",
+    "type": "sTLD"
+  },
+  {
+    "tld": "catering",
+    "type": "gTLD"
+  },
+  {
+    "tld": "catholic",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cba",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cbn",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cbre",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cc",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "cd",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "center",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ceo",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cern",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cf",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "cfa",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cfd",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cg",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "ch",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "chanel",
+    "type": "gTLD"
+  },
+  {
+    "tld": "channel",
+    "type": "gTLD"
+  },
+  {
+    "tld": "charity",
+    "type": "gTLD"
+  },
+  {
+    "tld": "chase",
+    "type": "gTLD"
+  },
+  {
+    "tld": "chat",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cheap",
+    "type": "gTLD"
+  },
+  {
+    "tld": "chintai",
+    "type": "gTLD"
+  },
+  {
+    "tld": "christmas",
+    "type": "gTLD"
+  },
+  {
+    "tld": "chrome",
+    "type": "gTLD"
+  },
+  {
+    "tld": "church",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ci",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "cipriani",
+    "type": "gTLD"
+  },
+  {
+    "tld": "circle",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cisco",
+    "type": "gTLD"
+  },
+  {
+    "tld": "citadel",
+    "type": "gTLD"
+  },
+  {
+    "tld": "citi",
+    "type": "gTLD"
+  },
+  {
+    "tld": "citic",
+    "type": "gTLD"
+  },
+  {
+    "tld": "city",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ck",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "cl",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "claims",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cleaning",
+    "type": "gTLD"
+  },
+  {
+    "tld": "click",
+    "type": "gTLD"
+  },
+  {
+    "tld": "clinic",
+    "type": "gTLD"
+  },
+  {
+    "tld": "clinique",
+    "type": "gTLD"
+  },
+  {
+    "tld": "clothing",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cloud",
+    "type": "gTLD"
+  },
+  {
+    "tld": "club",
+    "type": "gTLD"
+  },
+  {
+    "tld": "clubmed",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cm",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "cn",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "co",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "coach",
+    "type": "gTLD"
+  },
+  {
+    "tld": "codes",
+    "type": "gTLD"
+  },
+  {
+    "tld": "coffee",
+    "type": "gTLD"
+  },
+  {
+    "tld": "college",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cologne",
+    "type": "gTLD"
+  },
+  {
+    "tld": "com",
+    "type": "gTLD"
+  },
+  {
+    "tld": "commbank",
+    "type": "gTLD"
+  },
+  {
+    "tld": "community",
+    "type": "gTLD"
+  },
+  {
+    "tld": "company",
+    "type": "gTLD"
+  },
+  {
+    "tld": "compare",
+    "type": "gTLD"
+  },
+  {
+    "tld": "computer",
+    "type": "gTLD"
+  },
+  {
+    "tld": "comsec",
+    "type": "gTLD"
+  },
+  {
+    "tld": "condos",
+    "type": "gTLD"
+  },
+  {
+    "tld": "construction",
+    "type": "gTLD"
+  },
+  {
+    "tld": "consulting",
+    "type": "gTLD"
+  },
+  {
+    "tld": "contact",
+    "type": "gTLD"
+  },
+  {
+    "tld": "contractors",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cooking",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cool",
+    "type": "gTLD"
+  },
+  {
+    "tld": "coop",
+    "type": "sTLD"
+  },
+  {
+    "tld": "corsica",
+    "type": "gTLD"
+  },
+  {
+    "tld": "country",
+    "type": "gTLD"
+  },
+  {
+    "tld": "coupon",
+    "type": "gTLD"
+  },
+  {
+    "tld": "coupons",
+    "type": "gTLD"
+  },
+  {
+    "tld": "courses",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cpa",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cr",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "credit",
+    "type": "gTLD"
+  },
+  {
+    "tld": "creditcard",
+    "type": "gTLD"
+  },
+  {
+    "tld": "creditunion",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cricket",
+    "type": "gTLD"
+  },
+  {
+    "tld": "crown",
+    "type": "gTLD"
+  },
+  {
+    "tld": "crs",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cruise",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cruises",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cu",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "cuisinella",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cv",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "cw",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "cx",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "cy",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "cymru",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cyou",
+    "type": "gTLD"
+  },
+  {
+    "tld": "cz",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "dad",
+    "type": "gTLD"
+  },
+  {
+    "tld": "dance",
+    "type": "gTLD"
+  },
+  {
+    "tld": "data",
+    "type": "gTLD"
+  },
+  {
+    "tld": "date",
+    "type": "gTLD"
+  },
+  {
+    "tld": "dating",
+    "type": "gTLD"
+  },
+  {
+    "tld": "datsun",
+    "type": "gTLD"
+  },
+  {
+    "tld": "day",
+    "type": "gTLD"
+  },
+  {
+    "tld": "dclk",
+    "type": "gTLD"
+  },
+  {
+    "tld": "dds",
+    "type": "gTLD"
+  },
+  {
+    "tld": "de",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "deal",
+    "type": "gTLD"
+  },
+  {
+    "tld": "dealer",
+    "type": "gTLD"
+  },
+  {
+    "tld": "deals",
+    "type": "gTLD"
+  },
+  {
+    "tld": "degree",
+    "type": "gTLD"
+  },
+  {
+    "tld": "delivery",
+    "type": "gTLD"
+  },
+  {
+    "tld": "dell",
+    "type": "gTLD"
+  },
+  {
+    "tld": "deloitte",
+    "type": "gTLD"
+  },
+  {
+    "tld": "delta",
+    "type": "gTLD"
+  },
+  {
+    "tld": "democrat",
+    "type": "gTLD"
+  },
+  {
+    "tld": "dental",
+    "type": "gTLD"
+  },
+  {
+    "tld": "dentist",
+    "type": "gTLD"
+  },
+  {
+    "tld": "desi",
+    "type": "gTLD"
+  },
+  {
+    "tld": "design",
+    "type": "gTLD"
+  },
+  {
+    "tld": "dev",
+    "type": "gTLD"
+  },
+  {
+    "tld": "dhl",
+    "type": "gTLD"
+  },
+  {
+    "tld": "diamonds",
+    "type": "gTLD"
+  },
+  {
+    "tld": "diet",
+    "type": "gTLD"
+  },
+  {
+    "tld": "digital",
+    "type": "gTLD"
+  },
+  {
+    "tld": "direct",
+    "type": "gTLD"
+  },
+  {
+    "tld": "directory",
+    "type": "gTLD"
+  },
+  {
+    "tld": "discount",
+    "type": "gTLD"
+  },
+  {
+    "tld": "discover",
+    "type": "gTLD"
+  },
+  {
+    "tld": "dish",
+    "type": "gTLD"
+  },
+  {
+    "tld": "diy",
+    "type": "gTLD"
+  },
+  {
+    "tld": "dj",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "dk",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "dm",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "dnp",
+    "type": "gTLD"
+  },
+  {
+    "tld": "do",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "docs",
+    "type": "gTLD"
+  },
+  {
+    "tld": "doctor",
+    "type": "gTLD"
+  },
+  {
+    "tld": "dog",
+    "type": "gTLD"
+  },
+  {
+    "tld": "domains",
+    "type": "gTLD"
+  },
+  {
+    "tld": "dot",
+    "type": "gTLD"
+  },
+  {
+    "tld": "download",
+    "type": "gTLD"
+  },
+  {
+    "tld": "drive",
+    "type": "gTLD"
+  },
+  {
+    "tld": "dtv",
+    "type": "gTLD"
+  },
+  {
+    "tld": "dubai",
+    "type": "gTLD"
+  },
+  {
+    "tld": "dupont",
+    "type": "gTLD"
+  },
+  {
+    "tld": "durban",
+    "type": "gTLD"
+  },
+  {
+    "tld": "dvag",
+    "type": "gTLD"
+  },
+  {
+    "tld": "dvr",
+    "type": "gTLD"
+  },
+  {
+    "tld": "dz",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "earth",
+    "type": "gTLD"
+  },
+  {
+    "tld": "eat",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ec",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "eco",
+    "type": "gTLD"
+  },
+  {
+    "tld": "edeka",
+    "type": "gTLD"
+  },
+  {
+    "tld": "edu",
+    "type": "sTLD"
+  },
+  {
+    "tld": "education",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ee",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "eg",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "email",
+    "type": "gTLD"
+  },
+  {
+    "tld": "emerck",
+    "type": "gTLD"
+  },
+  {
+    "tld": "energy",
+    "type": "gTLD"
+  },
+  {
+    "tld": "engineer",
+    "type": "gTLD"
+  },
+  {
+    "tld": "engineering",
+    "type": "gTLD"
+  },
+  {
+    "tld": "enterprises",
+    "type": "gTLD"
+  },
+  {
+    "tld": "epson",
+    "type": "gTLD"
+  },
+  {
+    "tld": "equipment",
+    "type": "gTLD"
+  },
+  {
+    "tld": "er",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "ericsson",
+    "type": "gTLD"
+  },
+  {
+    "tld": "erni",
+    "type": "gTLD"
+  },
+  {
+    "tld": "es",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "esq",
+    "type": "gTLD"
+  },
+  {
+    "tld": "estate",
+    "type": "gTLD"
+  },
+  {
+    "tld": "et",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "eu",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "eurovision",
+    "type": "gTLD"
+  },
+  {
+    "tld": "eus",
+    "type": "gTLD"
+  },
+  {
+    "tld": "events",
+    "type": "gTLD"
+  },
+  {
+    "tld": "exchange",
+    "type": "gTLD"
+  },
+  {
+    "tld": "expert",
+    "type": "gTLD"
+  },
+  {
+    "tld": "exposed",
+    "type": "gTLD"
+  },
+  {
+    "tld": "express",
+    "type": "gTLD"
+  },
+  {
+    "tld": "extraspace",
+    "type": "gTLD"
+  },
+  {
+    "tld": "fage",
+    "type": "gTLD"
+  },
+  {
+    "tld": "fail",
+    "type": "gTLD"
+  },
+  {
+    "tld": "fairwinds",
+    "type": "gTLD"
+  },
+  {
+    "tld": "faith",
+    "type": "gTLD"
+  },
+  {
+    "tld": "family",
+    "type": "gTLD"
+  },
+  {
+    "tld": "fan",
+    "type": "gTLD"
+  },
+  {
+    "tld": "fans",
+    "type": "gTLD"
+  },
+  {
+    "tld": "farm",
+    "type": "gTLD"
+  },
+  {
+    "tld": "farmers",
+    "type": "gTLD"
+  },
+  {
+    "tld": "fashion",
+    "type": "gTLD"
+  },
+  {
+    "tld": "fast",
+    "type": "gTLD"
+  },
+  {
+    "tld": "fedex",
+    "type": "gTLD"
+  },
+  {
+    "tld": "feedback",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ferrari",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ferrero",
+    "type": "gTLD"
+  },
+  {
+    "tld": "fi",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "fidelity",
+    "type": "gTLD"
+  },
+  {
+    "tld": "fido",
+    "type": "gTLD"
+  },
+  {
+    "tld": "film",
+    "type": "gTLD"
+  },
+  {
+    "tld": "final",
+    "type": "gTLD"
+  },
+  {
+    "tld": "finance",
+    "type": "gTLD"
+  },
+  {
+    "tld": "financial",
+    "type": "gTLD"
+  },
+  {
+    "tld": "fire",
+    "type": "gTLD"
+  },
+  {
+    "tld": "firestone",
+    "type": "gTLD"
+  },
+  {
+    "tld": "firmdale",
+    "type": "gTLD"
+  },
+  {
+    "tld": "fish",
+    "type": "gTLD"
+  },
+  {
+    "tld": "fishing",
+    "type": "gTLD"
+  },
+  {
+    "tld": "fit",
+    "type": "gTLD"
+  },
+  {
+    "tld": "fitness",
+    "type": "gTLD"
+  },
+  {
+    "tld": "fj",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "fk",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "flickr",
+    "type": "gTLD"
+  },
+  {
+    "tld": "flights",
+    "type": "gTLD"
+  },
+  {
+    "tld": "flir",
+    "type": "gTLD"
+  },
+  {
+    "tld": "florist",
+    "type": "gTLD"
+  },
+  {
+    "tld": "flowers",
+    "type": "gTLD"
+  },
+  {
+    "tld": "fly",
+    "type": "gTLD"
+  },
+  {
+    "tld": "fm",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "fo",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "foo",
+    "type": "gTLD"
+  },
+  {
+    "tld": "food",
+    "type": "gTLD"
+  },
+  {
+    "tld": "football",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ford",
+    "type": "gTLD"
+  },
+  {
+    "tld": "forex",
+    "type": "gTLD"
+  },
+  {
+    "tld": "forsale",
+    "type": "gTLD"
+  },
+  {
+    "tld": "forum",
+    "type": "gTLD"
+  },
+  {
+    "tld": "foundation",
+    "type": "gTLD"
+  },
+  {
+    "tld": "fox",
+    "type": "gTLD"
+  },
+  {
+    "tld": "fr",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "free",
+    "type": "gTLD"
+  },
+  {
+    "tld": "fresenius",
+    "type": "gTLD"
+  },
+  {
+    "tld": "frl",
+    "type": "gTLD"
+  },
+  {
+    "tld": "frogans",
+    "type": "gTLD"
+  },
+  {
+    "tld": "frontier",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ftr",
+    "type": "gTLD"
+  },
+  {
+    "tld": "fujitsu",
+    "type": "gTLD"
+  },
+  {
+    "tld": "fun",
+    "type": "gTLD"
+  },
+  {
+    "tld": "fund",
+    "type": "gTLD"
+  },
+  {
+    "tld": "furniture",
+    "type": "gTLD"
+  },
+  {
+    "tld": "futbol",
+    "type": "gTLD"
+  },
+  {
+    "tld": "fyi",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ga",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "gal",
+    "type": "gTLD"
+  },
+  {
+    "tld": "gallery",
+    "type": "gTLD"
+  },
+  {
+    "tld": "gallo",
+    "type": "gTLD"
+  },
+  {
+    "tld": "gallup",
+    "type": "gTLD"
+  },
+  {
+    "tld": "game",
+    "type": "gTLD"
+  },
+  {
+    "tld": "games",
+    "type": "gTLD"
+  },
+  {
+    "tld": "gap",
+    "type": "gTLD"
+  },
+  {
+    "tld": "garden",
+    "type": "gTLD"
+  },
+  {
+    "tld": "gay",
+    "type": "gTLD"
+  },
+  {
+    "tld": "gb",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "gbiz",
+    "type": "gTLD"
+  },
+  {
+    "tld": "gd",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "gdn",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ge",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "gea",
+    "type": "gTLD"
+  },
+  {
+    "tld": "gent",
+    "type": "gTLD"
+  },
+  {
+    "tld": "genting",
+    "type": "gTLD"
+  },
+  {
+    "tld": "george",
+    "type": "gTLD"
+  },
+  {
+    "tld": "gf",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "gg",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "ggee",
+    "type": "gTLD"
+  },
+  {
+    "tld": "gh",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "gi",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "gift",
+    "type": "gTLD"
+  },
+  {
+    "tld": "gifts",
+    "type": "gTLD"
+  },
+  {
+    "tld": "gives",
+    "type": "gTLD"
+  },
+  {
+    "tld": "giving",
+    "type": "gTLD"
+  },
+  {
+    "tld": "gl",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "glass",
+    "type": "gTLD"
+  },
+  {
+    "tld": "gle",
+    "type": "gTLD"
+  },
+  {
+    "tld": "global",
+    "type": "gTLD"
+  },
+  {
+    "tld": "globo",
+    "type": "gTLD"
+  },
+  {
+    "tld": "gm",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "gmail",
+    "type": "gTLD"
+  },
+  {
+    "tld": "gmbh",
+    "type": "gTLD"
+  },
+  {
+    "tld": "gmo",
+    "type": "gTLD"
+  },
+  {
+    "tld": "gmx",
+    "type": "gTLD"
+  },
+  {
+    "tld": "gn",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "godaddy",
+    "type": "gTLD"
+  },
+  {
+    "tld": "gold",
+    "type": "gTLD"
+  },
+  {
+    "tld": "goldpoint",
+    "type": "gTLD"
+  },
+  {
+    "tld": "golf",
+    "type": "gTLD"
+  },
+  {
+    "tld": "goodyear",
+    "type": "gTLD"
+  },
+  {
+    "tld": "goog",
+    "type": "gTLD"
+  },
+  {
+    "tld": "google",
+    "type": "gTLD"
+  },
+  {
+    "tld": "gop",
+    "type": "gTLD"
+  },
+  {
+    "tld": "got",
+    "type": "gTLD"
+  },
+  {
+    "tld": "gov",
+    "type": "sTLD"
+  },
+  {
+    "tld": "gp",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "gq",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "gr",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "grainger",
+    "type": "gTLD"
+  },
+  {
+    "tld": "graphics",
+    "type": "gTLD"
+  },
+  {
+    "tld": "gratis",
+    "type": "gTLD"
+  },
+  {
+    "tld": "green",
+    "type": "gTLD"
+  },
+  {
+    "tld": "gripe",
+    "type": "gTLD"
+  },
+  {
+    "tld": "grocery",
+    "type": "gTLD"
+  },
+  {
+    "tld": "group",
+    "type": "gTLD"
+  },
+  {
+    "tld": "gs",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "gt",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "gu",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "gucci",
+    "type": "gTLD"
+  },
+  {
+    "tld": "guge",
+    "type": "gTLD"
+  },
+  {
+    "tld": "guide",
+    "type": "gTLD"
+  },
+  {
+    "tld": "guitars",
+    "type": "gTLD"
+  },
+  {
+    "tld": "guru",
+    "type": "gTLD"
+  },
+  {
+    "tld": "gw",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "gy",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "hair",
+    "type": "gTLD"
+  },
+  {
+    "tld": "hamburg",
+    "type": "gTLD"
+  },
+  {
+    "tld": "hangout",
+    "type": "gTLD"
+  },
+  {
+    "tld": "haus",
+    "type": "gTLD"
+  },
+  {
+    "tld": "hbo",
+    "type": "gTLD"
+  },
+  {
+    "tld": "hdfc",
+    "type": "gTLD"
+  },
+  {
+    "tld": "hdfcbank",
+    "type": "gTLD"
+  },
+  {
+    "tld": "health",
+    "type": "gTLD"
+  },
+  {
+    "tld": "healthcare",
+    "type": "gTLD"
+  },
+  {
+    "tld": "help",
+    "type": "gTLD"
+  },
+  {
+    "tld": "helsinki",
+    "type": "gTLD"
+  },
+  {
+    "tld": "here",
+    "type": "gTLD"
+  },
+  {
+    "tld": "hermes",
+    "type": "gTLD"
+  },
+  {
+    "tld": "hiphop",
+    "type": "gTLD"
+  },
+  {
+    "tld": "hisamitsu",
+    "type": "gTLD"
+  },
+  {
+    "tld": "hitachi",
+    "type": "gTLD"
+  },
+  {
+    "tld": "hiv",
+    "type": "gTLD"
+  },
+  {
+    "tld": "hk",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "hkt",
+    "type": "gTLD"
+  },
+  {
+    "tld": "hm",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "hn",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "hockey",
+    "type": "gTLD"
+  },
+  {
+    "tld": "holdings",
+    "type": "gTLD"
+  },
+  {
+    "tld": "holiday",
+    "type": "gTLD"
+  },
+  {
+    "tld": "homedepot",
+    "type": "gTLD"
+  },
+  {
+    "tld": "homegoods",
+    "type": "gTLD"
+  },
+  {
+    "tld": "homes",
+    "type": "gTLD"
+  },
+  {
+    "tld": "homesense",
+    "type": "gTLD"
+  },
+  {
+    "tld": "honda",
+    "type": "gTLD"
+  },
+  {
+    "tld": "horse",
+    "type": "gTLD"
+  },
+  {
+    "tld": "hospital",
+    "type": "gTLD"
+  },
+  {
+    "tld": "host",
+    "type": "gTLD"
+  },
+  {
+    "tld": "hosting",
+    "type": "gTLD"
+  },
+  {
+    "tld": "hot",
+    "type": "gTLD"
+  },
+  {
+    "tld": "hotels",
+    "type": "gTLD"
+  },
+  {
+    "tld": "hotmail",
+    "type": "gTLD"
+  },
+  {
+    "tld": "house",
+    "type": "gTLD"
+  },
+  {
+    "tld": "how",
+    "type": "gTLD"
+  },
+  {
+    "tld": "hr",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "hsbc",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ht",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "hu",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "hughes",
+    "type": "gTLD"
+  },
+  {
+    "tld": "hyatt",
+    "type": "gTLD"
+  },
+  {
+    "tld": "hyundai",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ibm",
+    "type": "gTLD"
+  },
+  {
+    "tld": "icbc",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ice",
+    "type": "gTLD"
+  },
+  {
+    "tld": "icu",
+    "type": "gTLD"
+  },
+  {
+    "tld": "id",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "ie",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "ieee",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ifm",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ikano",
+    "type": "gTLD"
+  },
+  {
+    "tld": "il",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "im",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "imamat",
+    "type": "gTLD"
+  },
+  {
+    "tld": "imdb",
+    "type": "gTLD"
+  },
+  {
+    "tld": "immo",
+    "type": "gTLD"
+  },
+  {
+    "tld": "immobilien",
+    "type": "gTLD"
+  },
+  {
+    "tld": "in",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "inc",
+    "type": "gTLD"
+  },
+  {
+    "tld": "industries",
+    "type": "gTLD"
+  },
+  {
+    "tld": "infiniti",
+    "type": "gTLD"
+  },
+  {
+    "tld": "info",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ing",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ink",
+    "type": "gTLD"
+  },
+  {
+    "tld": "institute",
+    "type": "gTLD"
+  },
+  {
+    "tld": "insurance",
+    "type": "gTLD"
+  },
+  {
+    "tld": "insure",
+    "type": "gTLD"
+  },
+  {
+    "tld": "int",
+    "type": "sTLD"
+  },
+  {
+    "tld": "international",
+    "type": "gTLD"
+  },
+  {
+    "tld": "intuit",
+    "type": "gTLD"
+  },
+  {
+    "tld": "investments",
+    "type": "gTLD"
+  },
+  {
+    "tld": "io",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "ipiranga",
+    "type": "gTLD"
+  },
+  {
+    "tld": "iq",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "ir",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "irish",
+    "type": "gTLD"
+  },
+  {
+    "tld": "is",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "ismaili",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ist",
+    "type": "gTLD"
+  },
+  {
+    "tld": "istanbul",
+    "type": "gTLD"
+  },
+  {
+    "tld": "it",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "itau",
+    "type": "gTLD"
+  },
+  {
+    "tld": "itv",
+    "type": "gTLD"
+  },
+  {
+    "tld": "jaguar",
+    "type": "gTLD"
+  },
+  {
+    "tld": "java",
+    "type": "gTLD"
+  },
+  {
+    "tld": "jcb",
+    "type": "gTLD"
+  },
+  {
+    "tld": "je",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "jeep",
+    "type": "gTLD"
+  },
+  {
+    "tld": "jetzt",
+    "type": "gTLD"
+  },
+  {
+    "tld": "jewelry",
+    "type": "gTLD"
+  },
+  {
+    "tld": "jio",
+    "type": "gTLD"
+  },
+  {
+    "tld": "jll",
+    "type": "gTLD"
+  },
+  {
+    "tld": "jm",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "jmp",
+    "type": "gTLD"
+  },
+  {
+    "tld": "jnj",
+    "type": "gTLD"
+  },
+  {
+    "tld": "jo",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "jobs",
+    "type": "sTLD"
+  },
+  {
+    "tld": "joburg",
+    "type": "gTLD"
+  },
+  {
+    "tld": "jot",
+    "type": "gTLD"
+  },
+  {
+    "tld": "joy",
+    "type": "gTLD"
+  },
+  {
+    "tld": "jp",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "jpmorgan",
+    "type": "gTLD"
+  },
+  {
+    "tld": "jprs",
+    "type": "gTLD"
+  },
+  {
+    "tld": "juegos",
+    "type": "gTLD"
+  },
+  {
+    "tld": "juniper",
+    "type": "gTLD"
+  },
+  {
+    "tld": "kaufen",
+    "type": "gTLD"
+  },
+  {
+    "tld": "kddi",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ke",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "kerryhotels",
+    "type": "gTLD"
+  },
+  {
+    "tld": "kerryproperties",
+    "type": "gTLD"
+  },
+  {
+    "tld": "kfh",
+    "type": "gTLD"
+  },
+  {
+    "tld": "kg",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "kh",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "ki",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "kia",
+    "type": "gTLD"
+  },
+  {
+    "tld": "kids",
+    "type": "gTLD"
+  },
+  {
+    "tld": "kim",
+    "type": "gTLD"
+  },
+  {
+    "tld": "kindle",
+    "type": "gTLD"
+  },
+  {
+    "tld": "kitchen",
+    "type": "gTLD"
+  },
+  {
+    "tld": "kiwi",
+    "type": "gTLD"
+  },
+  {
+    "tld": "km",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "kn",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "koeln",
+    "type": "gTLD"
+  },
+  {
+    "tld": "komatsu",
+    "type": "gTLD"
+  },
+  {
+    "tld": "kosher",
+    "type": "gTLD"
+  },
+  {
+    "tld": "kp",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "kpmg",
+    "type": "gTLD"
+  },
+  {
+    "tld": "kpn",
+    "type": "gTLD"
+  },
+  {
+    "tld": "kr",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "krd",
+    "type": "gTLD"
+  },
+  {
+    "tld": "kred",
+    "type": "gTLD"
+  },
+  {
+    "tld": "kuokgroup",
+    "type": "gTLD"
+  },
+  {
+    "tld": "kw",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "ky",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "kyoto",
+    "type": "gTLD"
+  },
+  {
+    "tld": "kz",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "la",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "lacaixa",
+    "type": "gTLD"
+  },
+  {
+    "tld": "lamborghini",
+    "type": "gTLD"
+  },
+  {
+    "tld": "lamer",
+    "type": "gTLD"
+  },
+  {
+    "tld": "land",
+    "type": "gTLD"
+  },
+  {
+    "tld": "landrover",
+    "type": "gTLD"
+  },
+  {
+    "tld": "lanxess",
+    "type": "gTLD"
+  },
+  {
+    "tld": "lasalle",
+    "type": "gTLD"
+  },
+  {
+    "tld": "lat",
+    "type": "gTLD"
+  },
+  {
+    "tld": "latino",
+    "type": "gTLD"
+  },
+  {
+    "tld": "latrobe",
+    "type": "gTLD"
+  },
+  {
+    "tld": "law",
+    "type": "gTLD"
+  },
+  {
+    "tld": "lawyer",
+    "type": "gTLD"
+  },
+  {
+    "tld": "lb",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "lc",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "lds",
+    "type": "gTLD"
+  },
+  {
+    "tld": "lease",
+    "type": "gTLD"
+  },
+  {
+    "tld": "leclerc",
+    "type": "gTLD"
+  },
+  {
+    "tld": "lefrak",
+    "type": "gTLD"
+  },
+  {
+    "tld": "legal",
+    "type": "gTLD"
+  },
+  {
+    "tld": "lego",
+    "type": "gTLD"
+  },
+  {
+    "tld": "lexus",
+    "type": "gTLD"
+  },
+  {
+    "tld": "lgbt",
+    "type": "gTLD"
+  },
+  {
+    "tld": "li",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "lidl",
+    "type": "gTLD"
+  },
+  {
+    "tld": "life",
+    "type": "gTLD"
+  },
+  {
+    "tld": "lifeinsurance",
+    "type": "gTLD"
+  },
+  {
+    "tld": "lifestyle",
+    "type": "gTLD"
+  },
+  {
+    "tld": "lighting",
+    "type": "gTLD"
+  },
+  {
+    "tld": "like",
+    "type": "gTLD"
+  },
+  {
+    "tld": "lilly",
+    "type": "gTLD"
+  },
+  {
+    "tld": "limited",
+    "type": "gTLD"
+  },
+  {
+    "tld": "limo",
+    "type": "gTLD"
+  },
+  {
+    "tld": "lincoln",
+    "type": "gTLD"
+  },
+  {
+    "tld": "link",
+    "type": "gTLD"
+  },
+  {
+    "tld": "live",
+    "type": "gTLD"
+  },
+  {
+    "tld": "living",
+    "type": "gTLD"
+  },
+  {
+    "tld": "lk",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "llc",
+    "type": "gTLD"
+  },
+  {
+    "tld": "llp",
+    "type": "gTLD"
+  },
+  {
+    "tld": "loan",
+    "type": "gTLD"
+  },
+  {
+    "tld": "loans",
+    "type": "gTLD"
+  },
+  {
+    "tld": "locker",
+    "type": "gTLD"
+  },
+  {
+    "tld": "locus",
+    "type": "gTLD"
+  },
+  {
+    "tld": "lol",
+    "type": "gTLD"
+  },
+  {
+    "tld": "london",
+    "type": "gTLD"
+  },
+  {
+    "tld": "lotte",
+    "type": "gTLD"
+  },
+  {
+    "tld": "lotto",
+    "type": "gTLD"
+  },
+  {
+    "tld": "love",
+    "type": "gTLD"
+  },
+  {
+    "tld": "lpl",
+    "type": "gTLD"
+  },
+  {
+    "tld": "lplfinancial",
+    "type": "gTLD"
+  },
+  {
+    "tld": "lr",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "ls",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "lt",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "ltd",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ltda",
+    "type": "gTLD"
+  },
+  {
+    "tld": "lu",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "lundbeck",
+    "type": "gTLD"
+  },
+  {
+    "tld": "luxe",
+    "type": "gTLD"
+  },
+  {
+    "tld": "luxury",
+    "type": "gTLD"
+  },
+  {
+    "tld": "lv",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "ly",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "ma",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "madrid",
+    "type": "gTLD"
+  },
+  {
+    "tld": "maif",
+    "type": "gTLD"
+  },
+  {
+    "tld": "maison",
+    "type": "gTLD"
+  },
+  {
+    "tld": "makeup",
+    "type": "gTLD"
+  },
+  {
+    "tld": "man",
+    "type": "gTLD"
+  },
+  {
+    "tld": "management",
+    "type": "gTLD"
+  },
+  {
+    "tld": "mango",
+    "type": "gTLD"
+  },
+  {
+    "tld": "map",
+    "type": "gTLD"
+  },
+  {
+    "tld": "market",
+    "type": "gTLD"
+  },
+  {
+    "tld": "marketing",
+    "type": "gTLD"
+  },
+  {
+    "tld": "markets",
+    "type": "gTLD"
+  },
+  {
+    "tld": "marriott",
+    "type": "gTLD"
+  },
+  {
+    "tld": "marshalls",
+    "type": "gTLD"
+  },
+  {
+    "tld": "mattel",
+    "type": "gTLD"
+  },
+  {
+    "tld": "mba",
+    "type": "gTLD"
+  },
+  {
+    "tld": "mc",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "mckinsey",
+    "type": "gTLD"
+  },
+  {
+    "tld": "md",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "me",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "med",
+    "type": "gTLD"
+  },
+  {
+    "tld": "media",
+    "type": "gTLD"
+  },
+  {
+    "tld": "meet",
+    "type": "gTLD"
+  },
+  {
+    "tld": "melbourne",
+    "type": "gTLD"
+  },
+  {
+    "tld": "meme",
+    "type": "gTLD"
+  },
+  {
+    "tld": "memorial",
+    "type": "gTLD"
+  },
+  {
+    "tld": "men",
+    "type": "gTLD"
+  },
+  {
+    "tld": "menu",
+    "type": "gTLD"
+  },
+  {
+    "tld": "merckmsd",
+    "type": "gTLD"
+  },
+  {
+    "tld": "mg",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "mh",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "miami",
+    "type": "gTLD"
+  },
+  {
+    "tld": "microsoft",
+    "type": "gTLD"
+  },
+  {
+    "tld": "mil",
+    "type": "sTLD"
+  },
+  {
+    "tld": "mini",
+    "type": "gTLD"
+  },
+  {
+    "tld": "mint",
+    "type": "gTLD"
+  },
+  {
+    "tld": "mit",
+    "type": "gTLD"
+  },
+  {
+    "tld": "mitsubishi",
+    "type": "gTLD"
+  },
+  {
+    "tld": "mk",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "ml",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "mlb",
+    "type": "gTLD"
+  },
+  {
+    "tld": "mls",
+    "type": "gTLD"
+  },
+  {
+    "tld": "mm",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "mma",
+    "type": "gTLD"
+  },
+  {
+    "tld": "mn",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "mo",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "mobi",
+    "type": "gTLD"
+  },
+  {
+    "tld": "mobile",
+    "type": "gTLD"
+  },
+  {
+    "tld": "moda",
+    "type": "gTLD"
+  },
+  {
+    "tld": "moe",
+    "type": "gTLD"
+  },
+  {
+    "tld": "moi",
+    "type": "gTLD"
+  },
+  {
+    "tld": "mom",
+    "type": "gTLD"
+  },
+  {
+    "tld": "monash",
+    "type": "gTLD"
+  },
+  {
+    "tld": "money",
+    "type": "gTLD"
+  },
+  {
+    "tld": "monster",
+    "type": "gTLD"
+  },
+  {
+    "tld": "mormon",
+    "type": "gTLD"
+  },
+  {
+    "tld": "mortgage",
+    "type": "gTLD"
+  },
+  {
+    "tld": "moscow",
+    "type": "gTLD"
+  },
+  {
+    "tld": "moto",
+    "type": "gTLD"
+  },
+  {
+    "tld": "motorcycles",
+    "type": "gTLD"
+  },
+  {
+    "tld": "mov",
+    "type": "gTLD"
+  },
+  {
+    "tld": "movie",
+    "type": "gTLD"
+  },
+  {
+    "tld": "mp",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "mq",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "mr",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "ms",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "msd",
+    "type": "gTLD"
+  },
+  {
+    "tld": "mt",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "mtn",
+    "type": "gTLD"
+  },
+  {
+    "tld": "mtr",
+    "type": "gTLD"
+  },
+  {
+    "tld": "mu",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "museum",
+    "type": "sTLD"
+  },
+  {
+    "tld": "music",
+    "type": "gTLD"
+  },
+  {
+    "tld": "mv",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "mw",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "mx",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "my",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "mz",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "na",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "nab",
+    "type": "gTLD"
+  },
+  {
+    "tld": "nagoya",
+    "type": "gTLD"
+  },
+  {
+    "tld": "name",
+    "type": "gTLD"
+  },
+  {
+    "tld": "navy",
+    "type": "gTLD"
+  },
+  {
+    "tld": "nba",
+    "type": "gTLD"
+  },
+  {
+    "tld": "nc",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "ne",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "nec",
+    "type": "gTLD"
+  },
+  {
+    "tld": "net",
+    "type": "gTLD"
+  },
+  {
+    "tld": "netbank",
+    "type": "gTLD"
+  },
+  {
+    "tld": "netflix",
+    "type": "gTLD"
+  },
+  {
+    "tld": "network",
+    "type": "gTLD"
+  },
+  {
+    "tld": "neustar",
+    "type": "gTLD"
+  },
+  {
+    "tld": "new",
+    "type": "gTLD"
+  },
+  {
+    "tld": "news",
+    "type": "gTLD"
+  },
+  {
+    "tld": "next",
+    "type": "gTLD"
+  },
+  {
+    "tld": "nextdirect",
+    "type": "gTLD"
+  },
+  {
+    "tld": "nexus",
+    "type": "gTLD"
+  },
+  {
+    "tld": "nf",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "nfl",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ng",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "ngo",
+    "type": "gTLD"
+  },
+  {
+    "tld": "nhk",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ni",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "nico",
+    "type": "gTLD"
+  },
+  {
+    "tld": "nike",
+    "type": "gTLD"
+  },
+  {
+    "tld": "nikon",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ninja",
+    "type": "gTLD"
+  },
+  {
+    "tld": "nissan",
+    "type": "gTLD"
+  },
+  {
+    "tld": "nissay",
+    "type": "gTLD"
+  },
+  {
+    "tld": "nl",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "no",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "nokia",
+    "type": "gTLD"
+  },
+  {
+    "tld": "norton",
+    "type": "gTLD"
+  },
+  {
+    "tld": "now",
+    "type": "gTLD"
+  },
+  {
+    "tld": "nowruz",
+    "type": "gTLD"
+  },
+  {
+    "tld": "nowtv",
+    "type": "gTLD"
+  },
+  {
+    "tld": "np",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "nr",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "nra",
+    "type": "gTLD"
+  },
+  {
+    "tld": "nrw",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ntt",
+    "type": "gTLD"
+  },
+  {
+    "tld": "nu",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "nyc",
+    "type": "gTLD"
+  },
+  {
+    "tld": "nz",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "obi",
+    "type": "gTLD"
+  },
+  {
+    "tld": "observer",
+    "type": "gTLD"
+  },
+  {
+    "tld": "office",
+    "type": "gTLD"
+  },
+  {
+    "tld": "okinawa",
+    "type": "gTLD"
+  },
+  {
+    "tld": "olayan",
+    "type": "gTLD"
+  },
+  {
+    "tld": "olayangroup",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ollo",
+    "type": "gTLD"
+  },
+  {
+    "tld": "om",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "omega",
+    "type": "gTLD"
+  },
+  {
+    "tld": "one",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ong",
+    "type": "gTLD"
+  },
+  {
+    "tld": "onl",
+    "type": "gTLD"
+  },
+  {
+    "tld": "online",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ooo",
+    "type": "gTLD"
+  },
+  {
+    "tld": "open",
+    "type": "gTLD"
+  },
+  {
+    "tld": "oracle",
+    "type": "gTLD"
+  },
+  {
+    "tld": "orange",
+    "type": "gTLD"
+  },
+  {
+    "tld": "org",
+    "type": "gTLD"
+  },
+  {
+    "tld": "organic",
+    "type": "gTLD"
+  },
+  {
+    "tld": "origins",
+    "type": "gTLD"
+  },
+  {
+    "tld": "osaka",
+    "type": "gTLD"
+  },
+  {
+    "tld": "otsuka",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ott",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ovh",
+    "type": "gTLD"
+  },
+  {
+    "tld": "pa",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "page",
+    "type": "gTLD"
+  },
+  {
+    "tld": "panasonic",
+    "type": "gTLD"
+  },
+  {
+    "tld": "paris",
+    "type": "gTLD"
+  },
+  {
+    "tld": "pars",
+    "type": "gTLD"
+  },
+  {
+    "tld": "partners",
+    "type": "gTLD"
+  },
+  {
+    "tld": "parts",
+    "type": "gTLD"
+  },
+  {
+    "tld": "party",
+    "type": "gTLD"
+  },
+  {
+    "tld": "pay",
+    "type": "gTLD"
+  },
+  {
+    "tld": "pccw",
+    "type": "gTLD"
+  },
+  {
+    "tld": "pe",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "pet",
+    "type": "gTLD"
+  },
+  {
+    "tld": "pf",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "pfizer",
+    "type": "gTLD"
+  },
+  {
+    "tld": "pg",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "ph",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "pharmacy",
+    "type": "gTLD"
+  },
+  {
+    "tld": "phd",
+    "type": "gTLD"
+  },
+  {
+    "tld": "philips",
+    "type": "gTLD"
+  },
+  {
+    "tld": "phone",
+    "type": "gTLD"
+  },
+  {
+    "tld": "photo",
+    "type": "gTLD"
+  },
+  {
+    "tld": "photography",
+    "type": "gTLD"
+  },
+  {
+    "tld": "photos",
+    "type": "gTLD"
+  },
+  {
+    "tld": "physio",
+    "type": "gTLD"
+  },
+  {
+    "tld": "pics",
+    "type": "gTLD"
+  },
+  {
+    "tld": "pictet",
+    "type": "gTLD"
+  },
+  {
+    "tld": "pictures",
+    "type": "gTLD"
+  },
+  {
+    "tld": "pid",
+    "type": "gTLD"
+  },
+  {
+    "tld": "pin",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ping",
+    "type": "gTLD"
+  },
+  {
+    "tld": "pink",
+    "type": "gTLD"
+  },
+  {
+    "tld": "pioneer",
+    "type": "gTLD"
+  },
+  {
+    "tld": "pizza",
+    "type": "gTLD"
+  },
+  {
+    "tld": "pk",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "pl",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "place",
+    "type": "gTLD"
+  },
+  {
+    "tld": "play",
+    "type": "gTLD"
+  },
+  {
+    "tld": "playstation",
+    "type": "gTLD"
+  },
+  {
+    "tld": "plumbing",
+    "type": "gTLD"
+  },
+  {
+    "tld": "plus",
+    "type": "gTLD"
+  },
+  {
+    "tld": "pm",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "pn",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "pnc",
+    "type": "gTLD"
+  },
+  {
+    "tld": "pohl",
+    "type": "gTLD"
+  },
+  {
+    "tld": "poker",
+    "type": "gTLD"
+  },
+  {
+    "tld": "politie",
+    "type": "gTLD"
+  },
+  {
+    "tld": "porn",
+    "type": "gTLD"
+  },
+  {
+    "tld": "post",
+    "type": "sTLD"
+  },
+  {
+    "tld": "pr",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "praxi",
+    "type": "gTLD"
+  },
+  {
+    "tld": "press",
+    "type": "gTLD"
+  },
+  {
+    "tld": "prime",
+    "type": "gTLD"
+  },
+  {
+    "tld": "pro",
+    "type": "gTLD"
+  },
+  {
+    "tld": "prod",
+    "type": "gTLD"
+  },
+  {
+    "tld": "productions",
+    "type": "gTLD"
+  },
+  {
+    "tld": "prof",
+    "type": "gTLD"
+  },
+  {
+    "tld": "progressive",
+    "type": "gTLD"
+  },
+  {
+    "tld": "promo",
+    "type": "gTLD"
+  },
+  {
+    "tld": "properties",
+    "type": "gTLD"
+  },
+  {
+    "tld": "property",
+    "type": "gTLD"
+  },
+  {
+    "tld": "protection",
+    "type": "gTLD"
+  },
+  {
+    "tld": "pru",
+    "type": "gTLD"
+  },
+  {
+    "tld": "prudential",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ps",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "pt",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "pub",
+    "type": "gTLD"
+  },
+  {
+    "tld": "pw",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "pwc",
+    "type": "gTLD"
+  },
+  {
+    "tld": "py",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "qa",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "qpon",
+    "type": "gTLD"
+  },
+  {
+    "tld": "quebec",
+    "type": "gTLD"
+  },
+  {
+    "tld": "quest",
+    "type": "gTLD"
+  },
+  {
+    "tld": "racing",
+    "type": "gTLD"
+  },
+  {
+    "tld": "radio",
+    "type": "gTLD"
+  },
+  {
+    "tld": "re",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "read",
+    "type": "gTLD"
+  },
+  {
+    "tld": "realestate",
+    "type": "gTLD"
+  },
+  {
+    "tld": "realtor",
+    "type": "gTLD"
+  },
+  {
+    "tld": "realty",
+    "type": "gTLD"
+  },
+  {
+    "tld": "recipes",
+    "type": "gTLD"
+  },
+  {
+    "tld": "red",
+    "type": "gTLD"
+  },
+  {
+    "tld": "redumbrella",
+    "type": "gTLD"
+  },
+  {
+    "tld": "rehab",
+    "type": "gTLD"
+  },
+  {
+    "tld": "reise",
+    "type": "gTLD"
+  },
+  {
+    "tld": "reisen",
+    "type": "gTLD"
+  },
+  {
+    "tld": "reit",
+    "type": "gTLD"
+  },
+  {
+    "tld": "reliance",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ren",
+    "type": "gTLD"
+  },
+  {
+    "tld": "rent",
+    "type": "gTLD"
+  },
+  {
+    "tld": "rentals",
+    "type": "gTLD"
+  },
+  {
+    "tld": "repair",
+    "type": "gTLD"
+  },
+  {
+    "tld": "report",
+    "type": "gTLD"
+  },
+  {
+    "tld": "republican",
+    "type": "gTLD"
+  },
+  {
+    "tld": "rest",
+    "type": "gTLD"
+  },
+  {
+    "tld": "restaurant",
+    "type": "gTLD"
+  },
+  {
+    "tld": "review",
+    "type": "gTLD"
+  },
+  {
+    "tld": "reviews",
+    "type": "gTLD"
+  },
+  {
+    "tld": "rexroth",
+    "type": "gTLD"
+  },
+  {
+    "tld": "rich",
+    "type": "gTLD"
+  },
+  {
+    "tld": "richardli",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ricoh",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ril",
+    "type": "gTLD"
+  },
+  {
+    "tld": "rio",
+    "type": "gTLD"
+  },
+  {
+    "tld": "rip",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ro",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "rocks",
+    "type": "gTLD"
+  },
+  {
+    "tld": "rodeo",
+    "type": "gTLD"
+  },
+  {
+    "tld": "rogers",
+    "type": "gTLD"
+  },
+  {
+    "tld": "room",
+    "type": "gTLD"
+  },
+  {
+    "tld": "rs",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "rsvp",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ru",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "rugby",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ruhr",
+    "type": "gTLD"
+  },
+  {
+    "tld": "run",
+    "type": "gTLD"
+  },
+  {
+    "tld": "rw",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "rwe",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ryukyu",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sa",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "saarland",
+    "type": "gTLD"
+  },
+  {
+    "tld": "safe",
+    "type": "gTLD"
+  },
+  {
+    "tld": "safety",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sakura",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sale",
+    "type": "gTLD"
+  },
+  {
+    "tld": "salon",
+    "type": "gTLD"
+  },
+  {
+    "tld": "samsclub",
+    "type": "gTLD"
+  },
+  {
+    "tld": "samsung",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sandvik",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sandvikcoromant",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sanofi",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sap",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sarl",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sas",
+    "type": "gTLD"
+  },
+  {
+    "tld": "save",
+    "type": "gTLD"
+  },
+  {
+    "tld": "saxo",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sb",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "sbi",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sbs",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sc",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "scb",
+    "type": "gTLD"
+  },
+  {
+    "tld": "schaeffler",
+    "type": "gTLD"
+  },
+  {
+    "tld": "schmidt",
+    "type": "gTLD"
+  },
+  {
+    "tld": "scholarships",
+    "type": "gTLD"
+  },
+  {
+    "tld": "school",
+    "type": "gTLD"
+  },
+  {
+    "tld": "schule",
+    "type": "gTLD"
+  },
+  {
+    "tld": "schwarz",
+    "type": "gTLD"
+  },
+  {
+    "tld": "science",
+    "type": "gTLD"
+  },
+  {
+    "tld": "scot",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sd",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "se",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "search",
+    "type": "gTLD"
+  },
+  {
+    "tld": "seat",
+    "type": "gTLD"
+  },
+  {
+    "tld": "secure",
+    "type": "gTLD"
+  },
+  {
+    "tld": "security",
+    "type": "gTLD"
+  },
+  {
+    "tld": "seek",
+    "type": "gTLD"
+  },
+  {
+    "tld": "select",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sener",
+    "type": "gTLD"
+  },
+  {
+    "tld": "services",
+    "type": "gTLD"
+  },
+  {
+    "tld": "seven",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sew",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sex",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sexy",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sfr",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sg",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "sh",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "shangrila",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sharp",
+    "type": "gTLD"
+  },
+  {
+    "tld": "shell",
+    "type": "gTLD"
+  },
+  {
+    "tld": "shia",
+    "type": "gTLD"
+  },
+  {
+    "tld": "shiksha",
+    "type": "gTLD"
+  },
+  {
+    "tld": "shoes",
+    "type": "gTLD"
+  },
+  {
+    "tld": "shop",
+    "type": "gTLD"
+  },
+  {
+    "tld": "shopping",
+    "type": "gTLD"
+  },
+  {
+    "tld": "shouji",
+    "type": "gTLD"
+  },
+  {
+    "tld": "show",
+    "type": "gTLD"
+  },
+  {
+    "tld": "si",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "silk",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sina",
+    "type": "gTLD"
+  },
+  {
+    "tld": "singles",
+    "type": "gTLD"
+  },
+  {
+    "tld": "site",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sj",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "sk",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "ski",
+    "type": "gTLD"
+  },
+  {
+    "tld": "skin",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sky",
+    "type": "gTLD"
+  },
+  {
+    "tld": "skype",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sl",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "sling",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sm",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "smart",
+    "type": "gTLD"
+  },
+  {
+    "tld": "smile",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sn",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "sncf",
+    "type": "gTLD"
+  },
+  {
+    "tld": "so",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "soccer",
+    "type": "gTLD"
+  },
+  {
+    "tld": "social",
+    "type": "gTLD"
+  },
+  {
+    "tld": "softbank",
+    "type": "gTLD"
+  },
+  {
+    "tld": "software",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sohu",
+    "type": "gTLD"
+  },
+  {
+    "tld": "solar",
+    "type": "gTLD"
+  },
+  {
+    "tld": "solutions",
+    "type": "gTLD"
+  },
+  {
+    "tld": "song",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sony",
+    "type": "gTLD"
+  },
+  {
+    "tld": "soy",
+    "type": "gTLD"
+  },
+  {
+    "tld": "spa",
+    "type": "gTLD"
+  },
+  {
+    "tld": "space",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sport",
+    "type": "gTLD"
+  },
+  {
+    "tld": "spot",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sr",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "srl",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ss",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "st",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "stada",
+    "type": "gTLD"
+  },
+  {
+    "tld": "staples",
+    "type": "gTLD"
+  },
+  {
+    "tld": "star",
+    "type": "gTLD"
+  },
+  {
+    "tld": "statebank",
+    "type": "gTLD"
+  },
+  {
+    "tld": "statefarm",
+    "type": "gTLD"
+  },
+  {
+    "tld": "stc",
+    "type": "gTLD"
+  },
+  {
+    "tld": "stcgroup",
+    "type": "gTLD"
+  },
+  {
+    "tld": "stockholm",
+    "type": "gTLD"
+  },
+  {
+    "tld": "storage",
+    "type": "gTLD"
+  },
+  {
+    "tld": "store",
+    "type": "gTLD"
+  },
+  {
+    "tld": "stream",
+    "type": "gTLD"
+  },
+  {
+    "tld": "studio",
+    "type": "gTLD"
+  },
+  {
+    "tld": "study",
+    "type": "gTLD"
+  },
+  {
+    "tld": "style",
+    "type": "gTLD"
+  },
+  {
+    "tld": "su",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "sucks",
+    "type": "gTLD"
+  },
+  {
+    "tld": "supplies",
+    "type": "gTLD"
+  },
+  {
+    "tld": "supply",
+    "type": "gTLD"
+  },
+  {
+    "tld": "support",
+    "type": "gTLD"
+  },
+  {
+    "tld": "surf",
+    "type": "gTLD"
+  },
+  {
+    "tld": "surgery",
+    "type": "gTLD"
+  },
+  {
+    "tld": "suzuki",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sv",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "swatch",
+    "type": "gTLD"
+  },
+  {
+    "tld": "swiss",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sx",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "sy",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "sydney",
+    "type": "gTLD"
+  },
+  {
+    "tld": "systems",
+    "type": "gTLD"
+  },
+  {
+    "tld": "sz",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "tab",
+    "type": "gTLD"
+  },
+  {
+    "tld": "taipei",
+    "type": "gTLD"
+  },
+  {
+    "tld": "talk",
+    "type": "gTLD"
+  },
+  {
+    "tld": "taobao",
+    "type": "gTLD"
+  },
+  {
+    "tld": "target",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tatamotors",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tatar",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tattoo",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tax",
+    "type": "gTLD"
+  },
+  {
+    "tld": "taxi",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tc",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "tci",
+    "type": "gTLD"
+  },
+  {
+    "tld": "td",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "tdk",
+    "type": "gTLD"
+  },
+  {
+    "tld": "team",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tech",
+    "type": "gTLD"
+  },
+  {
+    "tld": "technology",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tel",
+    "type": "sTLD"
+  },
+  {
+    "tld": "temasek",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tennis",
+    "type": "gTLD"
+  },
+  {
+    "tld": "teva",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tf",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "tg",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "th",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "thd",
+    "type": "gTLD"
+  },
+  {
+    "tld": "theater",
+    "type": "gTLD"
+  },
+  {
+    "tld": "theatre",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tiaa",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tickets",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tienda",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tips",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tires",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tirol",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tj",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "tjmaxx",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tjx",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tk",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "tkmaxx",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tl",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "tm",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "tmall",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tn",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "to",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "today",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tokyo",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tools",
+    "type": "gTLD"
+  },
+  {
+    "tld": "top",
+    "type": "gTLD"
+  },
+  {
+    "tld": "toray",
+    "type": "gTLD"
+  },
+  {
+    "tld": "toshiba",
+    "type": "gTLD"
+  },
+  {
+    "tld": "total",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tours",
+    "type": "gTLD"
+  },
+  {
+    "tld": "town",
+    "type": "gTLD"
+  },
+  {
+    "tld": "toyota",
+    "type": "gTLD"
+  },
+  {
+    "tld": "toys",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tr",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "trade",
+    "type": "gTLD"
+  },
+  {
+    "tld": "trading",
+    "type": "gTLD"
+  },
+  {
+    "tld": "training",
+    "type": "gTLD"
+  },
+  {
+    "tld": "travel",
+    "type": "sTLD"
+  },
+  {
+    "tld": "travelers",
+    "type": "gTLD"
+  },
+  {
+    "tld": "travelersinsurance",
+    "type": "gTLD"
+  },
+  {
+    "tld": "trust",
+    "type": "gTLD"
+  },
+  {
+    "tld": "trv",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tt",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "tube",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tui",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tunes",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tushu",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tv",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "tvs",
+    "type": "gTLD"
+  },
+  {
+    "tld": "tw",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "tz",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "ua",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "ubank",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ubs",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ug",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "uk",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "unicom",
+    "type": "gTLD"
+  },
+  {
+    "tld": "university",
+    "type": "gTLD"
+  },
+  {
+    "tld": "uno",
+    "type": "gTLD"
+  },
+  {
+    "tld": "uol",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ups",
+    "type": "gTLD"
+  },
+  {
+    "tld": "us",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "uy",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "uz",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "va",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "vacations",
+    "type": "gTLD"
+  },
+  {
+    "tld": "vana",
+    "type": "gTLD"
+  },
+  {
+    "tld": "vanguard",
+    "type": "gTLD"
+  },
+  {
+    "tld": "vc",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "ve",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "vegas",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ventures",
+    "type": "gTLD"
+  },
+  {
+    "tld": "verisign",
+    "type": "gTLD"
+  },
+  {
+    "tld": "versicherung",
+    "type": "gTLD"
+  },
+  {
+    "tld": "vet",
+    "type": "gTLD"
+  },
+  {
+    "tld": "vg",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "vi",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "viajes",
+    "type": "gTLD"
+  },
+  {
+    "tld": "video",
+    "type": "gTLD"
+  },
+  {
+    "tld": "vig",
+    "type": "gTLD"
+  },
+  {
+    "tld": "viking",
+    "type": "gTLD"
+  },
+  {
+    "tld": "villas",
+    "type": "gTLD"
+  },
+  {
+    "tld": "vin",
+    "type": "gTLD"
+  },
+  {
+    "tld": "vip",
+    "type": "gTLD"
+  },
+  {
+    "tld": "virgin",
+    "type": "gTLD"
+  },
+  {
+    "tld": "visa",
+    "type": "gTLD"
+  },
+  {
+    "tld": "vision",
+    "type": "gTLD"
+  },
+  {
+    "tld": "viva",
+    "type": "gTLD"
+  },
+  {
+    "tld": "vivo",
+    "type": "gTLD"
+  },
+  {
+    "tld": "vlaanderen",
+    "type": "gTLD"
+  },
+  {
+    "tld": "vn",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "vodka",
+    "type": "gTLD"
+  },
+  {
+    "tld": "volvo",
+    "type": "gTLD"
+  },
+  {
+    "tld": "vote",
+    "type": "gTLD"
+  },
+  {
+    "tld": "voting",
+    "type": "gTLD"
+  },
+  {
+    "tld": "voto",
+    "type": "gTLD"
+  },
+  {
+    "tld": "voyage",
+    "type": "gTLD"
+  },
+  {
+    "tld": "vu",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "wales",
+    "type": "gTLD"
+  },
+  {
+    "tld": "walmart",
+    "type": "gTLD"
+  },
+  {
+    "tld": "walter",
+    "type": "gTLD"
+  },
+  {
+    "tld": "wang",
+    "type": "gTLD"
+  },
+  {
+    "tld": "wanggou",
+    "type": "gTLD"
+  },
+  {
+    "tld": "watch",
+    "type": "gTLD"
+  },
+  {
+    "tld": "watches",
+    "type": "gTLD"
+  },
+  {
+    "tld": "weather",
+    "type": "gTLD"
+  },
+  {
+    "tld": "weatherchannel",
+    "type": "gTLD"
+  },
+  {
+    "tld": "webcam",
+    "type": "gTLD"
+  },
+  {
+    "tld": "weber",
+    "type": "gTLD"
+  },
+  {
+    "tld": "website",
+    "type": "gTLD"
+  },
+  {
+    "tld": "wed",
+    "type": "gTLD"
+  },
+  {
+    "tld": "wedding",
+    "type": "gTLD"
+  },
+  {
+    "tld": "weibo",
+    "type": "gTLD"
+  },
+  {
+    "tld": "weir",
+    "type": "gTLD"
+  },
+  {
+    "tld": "wf",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "whoswho",
+    "type": "gTLD"
+  },
+  {
+    "tld": "wien",
+    "type": "gTLD"
+  },
+  {
+    "tld": "wiki",
+    "type": "gTLD"
+  },
+  {
+    "tld": "williamhill",
+    "type": "gTLD"
+  },
+  {
+    "tld": "win",
+    "type": "gTLD"
+  },
+  {
+    "tld": "windows",
+    "type": "gTLD"
+  },
+  {
+    "tld": "wine",
+    "type": "gTLD"
+  },
+  {
+    "tld": "winners",
+    "type": "gTLD"
+  },
+  {
+    "tld": "wme",
+    "type": "gTLD"
+  },
+  {
+    "tld": "woodside",
+    "type": "gTLD"
+  },
+  {
+    "tld": "work",
+    "type": "gTLD"
+  },
+  {
+    "tld": "works",
+    "type": "gTLD"
+  },
+  {
+    "tld": "world",
+    "type": "gTLD"
+  },
+  {
+    "tld": "wow",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ws",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "wtc",
+    "type": "gTLD"
+  },
+  {
+    "tld": "wtf",
+    "type": "gTLD"
+  },
+  {
+    "tld": "xbox",
+    "type": "gTLD"
+  },
+  {
+    "tld": "xerox",
+    "type": "gTLD"
+  },
+  {
+    "tld": "xihuan",
+    "type": "gTLD"
+  },
+  {
+    "tld": "xin",
+    "type": "gTLD"
+  },
+  {
+    "tld": "xxx",
+    "type": "sTLD"
+  },
+  {
+    "tld": "xyz",
+    "type": "gTLD"
+  },
+  {
+    "tld": "yachts",
+    "type": "gTLD"
+  },
+  {
+    "tld": "yahoo",
+    "type": "gTLD"
+  },
+  {
+    "tld": "yamaxun",
+    "type": "gTLD"
+  },
+  {
+    "tld": "yandex",
+    "type": "gTLD"
+  },
+  {
+    "tld": "ye",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "yodobashi",
+    "type": "gTLD"
+  },
+  {
+    "tld": "yoga",
+    "type": "gTLD"
+  },
+  {
+    "tld": "yokohama",
+    "type": "gTLD"
+  },
+  {
+    "tld": "you",
+    "type": "gTLD"
+  },
+  {
+    "tld": "youtube",
+    "type": "gTLD"
+  },
+  {
+    "tld": "yt",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "yun",
+    "type": "gTLD"
+  },
+  {
+    "tld": "za",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "zappos",
+    "type": "gTLD"
+  },
+  {
+    "tld": "zara",
+    "type": "gTLD"
+  },
+  {
+    "tld": "zero",
+    "type": "gTLD"
+  },
+  {
+    "tld": "zip",
+    "type": "gTLD"
+  },
+  {
+    "tld": "zm",
+    "type": "ccTLD"
+  },
+  {
+    "tld": "zone",
+    "type": "gTLD"
+  },
+  {
+    "tld": "zuerich",
+    "type": "gTLD"
+  },
+  {
+    "tld": "zw",
+    "type": "ccTLD"
+  }
+]
