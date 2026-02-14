@@ -7,7 +7,7 @@ export default function Header() {
             🌐
           </span>
           <h1 className="text-lg font-bold tracking-tight text-foreground">
-            find<span className="text-accent">the</span>name
+            spl<span className="text-accent">.it</span>
           </h1>
         </div>
         <nav className="flex items-center gap-3">

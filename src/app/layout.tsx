@@ -9,9 +9,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "findthename — creative domain name suggestions",
+  title: "spl.it — split words into clever domain names",
   description:
-    "Generate clever domain names using TLD hacks, prefixes, suffixes, and more.",
+    "Split words into creative domain names using TLD hacks, prefixes, suffixes, and more.",
 };
 
 export default function RootLayout({

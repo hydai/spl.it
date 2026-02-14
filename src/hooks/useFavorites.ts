@@ -3,7 +3,7 @@
 import { useState, useCallback, useEffect } from "react";
 import type { Suggestion } from "@/lib/types";
 
-const STORAGE_KEY = "findthename-favorites";
+const STORAGE_KEY = "split-favorites";
 
 function domainKey(s: Suggestion): string {
   return s.isMultiLevel ? s.domain : `${s.prefix}.${s.tld}`;

@@ -34,12 +34,12 @@ export default function Home() {
         {/* Hero section */}
         <div className="flex flex-col items-center gap-4 pt-8 text-center">
           <h2 className="text-3xl font-bold tracking-tight text-foreground sm:text-4xl">
-            Find the perfect
-            <span className="text-accent"> domain name</span>
+            Split words into
+            <span className="text-accent"> clever domains</span>
           </h2>
           <p className="max-w-lg text-base text-muted sm:text-lg">
-            Type a word or brand name and we&apos;ll generate clever domain
-            suggestions using TLD hacks, prefixes, suffixes, and more.
+            Enter a word and we&apos;ll split it into creative domain names
+            using TLD hacks, prefixes, suffixes, and more.
           </p>
         </div>
 
@@ -99,7 +99,7 @@ export default function Home() {
       <noscript>
         <div className="fixed inset-0 flex items-center justify-center bg-background p-8 text-center">
           <p className="text-lg text-foreground">
-            findthename requires JavaScript to generate domain suggestions.
+            spl.it requires JavaScript to generate domain suggestions.
             Please enable JavaScript to use this app.
           </p>
         </div>
